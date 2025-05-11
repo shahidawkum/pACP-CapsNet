@@ -11,7 +11,6 @@ The second independent dataset "ACP_Independent_II.txt" contains 240 peptide seq
 ### (2)	lib
 lib folder contains all the features extraction related necessary codes used in this study.<br />
 ## (II)	2_SFLA based feature Selection
-2_this folder includes the following files
 ### (1)2.	Shuffled frog leaping algorithm folder contains all required files related to SFLA-based feature selection.
 ## (III)	3_CapsNet trained Model
 3_CapsNet trained Model folder includes all the libraries used for training the deep Capsule neural network model.
