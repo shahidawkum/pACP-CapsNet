@@ -16,7 +16,7 @@ lib folder contains all the features extraction related necessary codes used in 
 3_CapsNet trained Model folder includes all the libraries used for training the deep Capsule neural network model.
 ## (IV)	RECM_based_Feature_Extraction.m
 matlab file for extracting <br />
-(1) 	RECM_CLBP (Completed Local Binary Pattern based Residue energy contact Matrix)
+(1) 	RECM_CLBP (Completed Local Binary Pattern based Residue energy contact Matrix)<br />
 (2)	RECM_DCT (Discrete Cosine transformation based Residue energy contact Matrix) <br />
 ## (V) SMR_based_Feature_Extraction.m is the matlab file for extracting <br />
 
