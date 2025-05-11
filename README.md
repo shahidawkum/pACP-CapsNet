@@ -18,8 +18,8 @@ lib folder contains all the features extraction related necessary codes used in 
 matlab file for extracting <br />
 (1) 	RECM_CLBP (Completed Local Binary Pattern based Residue energy contact Matrix)<br />
 (2)	RECM_DCT (Discrete Cosine transformation based Residue energy contact Matrix) <br />
-## (V) SMR_based_Feature_Extraction.m is the matlab file for extracting <br />
-
+## (V) SMR_based_Feature_Extraction.m 
+matlab file for extracting <br />
 (1) HOG_SMR (Histogram of Oriented Gradients based Substitution matrix representation)<br />
 (2) DWT_SMR (Discrete Wavelet transformation based Substitution matrix representation)
  <br />
